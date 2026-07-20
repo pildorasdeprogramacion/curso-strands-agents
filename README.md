@@ -7,7 +7,7 @@ A lo largo del curso construimos, módulo a módulo, un solo proyecto:
 **el asistente virtual de una academia de cursos online** — con herramientas,
 base de datos, aprobación humana, memoria, multi-agente y despliegue.
 
-🎥 **Playlist del curso:** [ENLACE A TU PLAYLIST]
+🎥 **Playlist del curso:** [https://www.youtube.com/playlist?list=PLMAnY6rGtzyw]
 
 ## Requisitos
 
@@ -22,7 +22,7 @@ Cada módulo es una **carpeta autocontenida** con el proyecto en su estado final
 No necesitas los módulos anteriores para correr uno:
 
 ```bash
-git clone https://github.com/TU_USUARIO/curso-strands-agents.git
+git clone https://github.com/pildorasdeprogramacion/curso-strands-agents.git
 cd curso-strands-agents/modulo-02-agent-loop
 uv sync                                    # reconstruye el entorno exacto
 export AWS_BEARER_TOKEN_BEDROCK="tu_key"   # tus credenciales (Módulo 1)
@@ -36,9 +36,9 @@ Cada carpeta tiene su propio README con las instrucciones específicas del módu
 
 | Módulo | Carpeta | Video |
 |---|---|---|
-| 0 — Introducción: agentes y model-driven | (sin código) | [ver video](#) |
-| 1 — Setup: uv, credenciales y primer agente | [`modulo-01-setup`](./modulo-01-setup) | [ver video](#) |
-| 2 — El Agent Loop: nace el asistente | [`modulo-02-agent-loop`](./modulo-02-agent-loop) | [ver video](#) |
+| 0 — Introducción: agentes y model-driven | (sin código) | [ver video](https://youtu.be/Ota3RCY7U7U) |
+| 1 — Setup: uv, credenciales y primer agente | [`modulo-01-setup`](./modulo-01-setup) | [ver video](https://youtu.be/aHv0F7AvVyI) |
+| 2 — El Agent Loop: nace el asistente | [`modulo-02-agent-loop`](./modulo-02-agent-loop) | [ver video](https://youtu.be/Z238QRhtnoY) |
 
 *(El índice crece a medida que se publican los módulos.)*
 

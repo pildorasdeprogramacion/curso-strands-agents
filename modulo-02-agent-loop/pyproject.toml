@@ -1,0 +1,10 @@
+[project]
+name = "academia-agente"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "strands-agents>=1.47.0",
+    "strands-agents-tools>=0.8.3",
+]
