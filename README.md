@@ -39,6 +39,7 @@ Cada carpeta tiene su propio README con las instrucciones específicas del módu
 | 0 — Introducción: agentes y model-driven | (sin código) | [ver video](https://youtu.be/Ota3RCY7U7U) |
 | 1 — Setup: uv, credenciales y primer agente | [`modulo-01-setup`](./modulo-01-setup) | [ver video](https://youtu.be/aHv0F7AvVyI) |
 | 2 — El Agent Loop: nace el asistente | [`modulo-02-agent-loop`](./modulo-02-agent-loop) | [ver video](https://youtu.be/Z238QRhtnoY) |
+| 3 — El arte de las herramientas: el backend completo | [`modulo-03-herramientas`](./modulo-03-herramientas) | [ver video](https://youtu.be/huRreJ_pSYo) |
 
 *(El índice crece a medida que se publican los módulos.)*
 
