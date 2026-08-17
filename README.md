@@ -7,7 +7,7 @@ A lo largo del curso construimos, módulo a módulo, un solo proyecto:
 **el asistente virtual de una academia de cursos online** — con herramientas,
 base de datos, aprobación humana, memoria, multi-agente y despliegue.
 
-🎥 **Playlist del curso:** [https://www.youtube.com/playlist?list=PLMAnY6rGtzyw]
+🎥 **Playlist del curso:** [<https://www.youtube.com/playlist?list=PLMAnY6rGtzyw>]
 
 ## Requisitos
 
@@ -37,9 +37,10 @@ Cada carpeta tiene su propio README con las instrucciones específicas del módu
 | Módulo | Carpeta | Video |
 |---|---|---|
 | 0 — Introducción: agentes y model-driven | (sin código) | [ver video](https://youtu.be/Ota3RCY7U7U) |
-| 1 — Setup: uv, credenciales y primer agente | [`modulo-01-setup`](./modulo-01-setup) | [ver video](https://youtu.be/aHv0F7AvVyI) |
+| 1 — Setup: uv, credenciales y primer agente | (sin código) | [ver video](https://youtu.be/aHv0F7AvVyI) |
 | 2 — El Agent Loop: nace el asistente | [`modulo-02-agent-loop`](./modulo-02-agent-loop) | [ver video](https://youtu.be/Z238QRhtnoY) |
 | 3 — El arte de las herramientas: el backend completo | [`modulo-03-herramientas`](./modulo-03-herramientas) | [ver video](https://youtu.be/huRreJ_pSYo) |
+| 4 — El cerebro enchufable: Ollama y modelos gratuitos | [`modulo-04-modelos`](./modulo-04-modelos) | [ver video](https://youtu.be/U0HVnyQDRQ4) |
 
 *(El índice crece a medida que se publican los módulos.)*
 
